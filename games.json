@@ -8,7 +8,7 @@
     },
     {
       "name": "Rustbound",
-      "version": "1.0.0",
+      "version": "0.0",
       "download_url": "https://example.com/AnotherGame.zip",
       "executable_name": "rustbound.exe"
     }
