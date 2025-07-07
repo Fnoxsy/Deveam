@@ -1,0 +1,14 @@
+{
+  "games": [
+    {
+      "name": "PaintWarfare",
+      "version": "0.0",
+      "download_url": "https://drive.google.com/uc?export=download&id=FILE_ID_1"
+    },
+    {
+      "name": "Rustbound",
+      "version": "0.0",
+      "download_url": "https://drive.google.com/uc?export=download&id=FILE_ID_2"
+    }
+  ]
+}
