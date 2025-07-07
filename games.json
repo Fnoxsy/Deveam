@@ -2,8 +2,8 @@
   "games": [
     {
       "name": "PaintWarfare",
-      "version": "1.0.0",
-      "download_url": "https://example.com/MyGame.zip",
+      "version": "1.0",
+      "download_url": "https://drive.google.com/file/d/1tidKal0HL528u391y74bXozcVUIOHMfZ/view?usp=sharing",
       "executable_name": "paintwarfare.exe"
     },
     {
