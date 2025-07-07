@@ -2,13 +2,15 @@
   "games": [
     {
       "name": "PaintWarfare",
-      "version": "0.0",
-      "download_url": "https://drive.google.com/uc?export=download&id=FILE_ID_1"
+      "version": "1.0.0",
+      "download_url": "https://example.com/MyGame.zip",
+      "executable_name": "paintwarfare.exe"
     },
     {
       "name": "Rustbound",
-      "version": "0.0",
-      "download_url": "https://drive.google.com/uc?export=download&id=FILE_ID_2"
+      "version": "1.0.0",
+      "download_url": "https://example.com/AnotherGame.zip",
+      "executable_name": "rustbound.exe"
     }
   ]
 }
